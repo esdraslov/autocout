@@ -1,0 +1,25 @@
+{
+  "name": "autocout",
+  "version": "1.0.0",
+  "description": "this make a cout on express server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "esdraslov",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "node-fetch": "^3.2.6"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/esdraslov/autocout.git"
+  },
+  "bugs": {
+    "url": "https://github.com/esdraslov/autocout/issues"
+  },
+  "homepage": "https://github.com/esdraslov/autocout#readme"
+}
